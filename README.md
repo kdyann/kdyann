@@ -1,7 +1,8 @@
-### Hi 👋
+### Hi everyone 👋
 ## My name is DaYoung. I'm a college student.
-I'm interested in learning Python, c, etc and I like baseball. Cheering for Lotte!
-## How to reach me: kdyann@gachon.ac.kr <-- Please contact with me !!
+I'm interested in learning Python, c, etc. I want to be an engineer !!
+I like baseball. Cheering for Lotte! and I like Crayon Shin-Chan.
+# How to reach me: kdyann@gachon.ac.kr <-- Please contact with me !!
 <!--
 **kdyann/kdyann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
