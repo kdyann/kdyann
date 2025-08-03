@@ -17,7 +17,7 @@
       <td>2025.03 ~ 2025.08</td>
     </tr>
     <tr>
-      <td><a href="https://www.gachon.ac.kr/" target="_blank">🔥 실패를 공유하는 새로운 SNS, OOPS! BackEnd Developer</a></td>
+      <td>실패를 공유하는 새로운 SNS, OOPS! BackEnd Developer</td>
       <td>2025.06 ~ 2025.08</td>
     </tr>
   </tbody>
