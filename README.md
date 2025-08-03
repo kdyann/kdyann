@@ -2,6 +2,27 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=f9fb7e&height=180&text=dayoung's%20Github&animation=fadeIn&fontColor=f599be&fontSize=60" />
 </div>
 
+## 📚 What I'm experienced
+
+<table>
+  <thead>
+    <tr>
+      <th>경험</th>
+      <th>기간</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🍀 University Makeus Challenge Gachon 8th Spring 챌린저</td>
+      <td>2025.03 ~ 2025.08</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.gachon.ac.kr/" target="_blank">🔥 실패를 공유하는 새로운 SNS, OOPS! BackEnd Developer</a></td>
+      <td>2025.06 ~ 2025.08</td>
+    </tr>
+  </tbody>
+</table>
+
 <!-- ✨ Certificate Section -->
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Certificate </h2>
