@@ -7,18 +7,21 @@
 <table>
   <thead>
     <tr>
-      <th>경험</th>
+      <th>프로젝트</th>
+      <th>역할</th>
       <th>기간</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>🍀 University Makeus Challenge Gachon 8th Spring 챌린저</td>
-      <td>2025.03 ~ 2025.08</td>
+      <td>실패를 공유하는 새로운 SNS, OOPS!</td>
+      <td>백엔드</td>
+      <td>2025.06 ~ 2025.08</td>
     </tr>
     <tr>
-      <td>🍀 실패를 공유하는 새로운 SNS, OOPS! BackEnd Developer</td>
-      <td>2025.06 ~ 2025.08</td>
+      <td>YouthFi-청년 정책∙예적금 AI 포트폴리오 추천 및 모의투자 시스템</td>
+      <td>인프라, 백엔드</td>
+      <td>2025.09 ~ 2025.10</td>
     </tr>
   </tbody>
 </table>
