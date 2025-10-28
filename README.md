@@ -25,16 +25,6 @@
     </tr>
   </tbody>
 </table>
-
-<!-- ✨ Certificate Section -->
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Certificate </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-        <ul>
-            <li><strong>SQLD</strong> (2024.09.20)</li>
-        </ul>
-    </div>
-</div>
 <!-- 🛠️ Tech Stacks Section -->
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
