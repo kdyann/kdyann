@@ -14,17 +14,26 @@
   </thead>
   <tbody>
     <tr>
-      <td>실패를 공유하는 새로운 SNS, OOPS!</td>
+      <td>
+        <a href="https://github.com/Team-0ops/Oops-back" target="_blank" rel="noopener noreferrer">
+          실패를 공유하는 새로운 SNS, OOPS!
+        </a>
+      </td>
       <td>백엔드</td>
       <td>2025.06 ~ 2025.08</td>
     </tr>
     <tr>
-      <td>YouthFi-청년 정책∙예적금 AI 포트폴리오 추천 및 모의투자 시스템</td>
+      <td>
+        <a href="https://github.com/KE-WhyNot" target="_blank" rel="noopener noreferrer">
+          YouthFi-청년 정책∙예적금 AI 포트폴리오 추천 및 모의투자 시스템
+        </a>
+      </td>
       <td>인프라, 백엔드</td>
       <td>2025.09 ~ 2025.10</td>
     </tr>
   </tbody>
 </table>
+
 <!-- 🛠️ Tech Stacks Section -->
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
