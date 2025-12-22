@@ -11,12 +11,10 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/Team-0ops/Oops-back" target="_blank" rel="noopener noreferrer">
-          실패를 공유하는 새로운 SNS, OOPS!
-        </a>
+          DKaffeine - RAG 기반 카카오워크 AI 챗봇 시스템
       </td>
-      <td>백엔드</td>
-      <td>2025.06 ~ 2025.08</td>
+      <td>인프라</td>
+      <td>2025.11 ~ 2025.12</td>
     </tr>
     <tr>
       <td>
@@ -29,10 +27,12 @@
     </tr>
     <tr>
       <td>
-          DKaffeine - RAG 기반 카카오워크 AI 챗봇 시스템
+        <a href="https://github.com/Team-0ops/Oops-back" target="_blank" rel="noopener noreferrer">
+          실패를 공유하는 새로운 SNS, OOPS!
+        </a>
       </td>
-      <td>인프라</td>
-      <td>2025.11 ~ 2025.12</td>
+      <td>백엔드</td>
+      <td>2025.06 ~ 2025.08</td>
     </tr>
   </tbody>
 </table>
