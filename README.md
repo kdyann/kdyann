@@ -1,41 +1,52 @@
-## 📚 What I'm experienced
+### 🏢 Experience: 
+
+<html lang="en">
+<body>
 
 <table>
-  <thead>
-    <tr>
-      <th>프로젝트</th>
-      <th>역할</th>
-      <th>기간</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-          DKaffeine - RAG 기반 카카오워크 AI 챗봇 시스템
-      </td>
-      <td>인프라</td>
-      <td>2025.11 ~ 2025.12</td>
-    </tr>
-    <tr>
-      <td>
+  <tr>
+    <th>Period</th>
+    <th>Program</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td>2026.02. ~ 진행중</td>
+    <td>Kakaoenterprise Client개발팀</td>
+    <td>BE 인턴</td>
+  </tr>
+  <tr>
+    <td>2025.11. ~ 2025.12.</td>
+    <td>DKaffeine - RAG 기반 카카오워크 AI 챗봇 시스템</td>
+    <td>INFRA</td>
+  </tr>
+  <tr>
+    <td>2025.09. ~ 2025.10.</td>
+    <td>
         <a href="https://github.com/KE-WhyNot" target="_blank" rel="noopener noreferrer">
           YouthFi - 청년 정책∙예적금 AI 포트폴리오 추천 및 모의투자 시스템
         </a>
       </td>
-      <td>인프라, 백엔드</td>
-      <td>2025.09 ~ 2025.10</td>
-    </tr>
-    <tr>
-      <td>
+    <td>INFRA, BE</td>
+  </tr>
+  <tr>
+    <td>2025.06. ~ 진행중</td>
+    <td>
         <a href="https://github.com/Team-0ops/Oops-back" target="_blank" rel="noopener noreferrer">
           실패를 공유하는 새로운 SNS, OOPS!
         </a>
       </td>
-      <td>백엔드</td>
-      <td>2025.06 ~ 진행중</td>
-    </tr>
-  </tbody>
+    <td>BE</td>
+  </tr>
+  <tr>
+    <td>2025.03. ~ 2025.09.</td>
+    <td>Wireless Intelligent Networking Lab (WINL, Gachon Univ [prof.Joon Yoo])</td>
+    <td>Research Assistant</td>
+  </tr>
 </table>
+
+</body>
+</html>
+
 
 <!-- 🛠️ Tech Stacks Section -->
 <div style="text-align: left;">
