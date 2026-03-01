@@ -11,6 +11,11 @@
   </tr>
   <tr>
     <td>2026.02. ~ 진행중</td>
+    <td>OJik - 야구 직관 기록 앱</td>
+    <td>PM, BE</td>
+  </tr>
+  <tr>
+    <td>2026.02. ~ 진행중</td>
     <td>Kakaoenterprise Client개발팀</td>
     <td>BE 인턴</td>
   </tr>
