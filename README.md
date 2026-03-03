@@ -34,7 +34,7 @@
     <td>INFRA, BE</td>
   </tr>
   <tr>
-    <td>2025.06. ~ 진행중</td>
+    <td>2025.06. ~ 2026.02</td>
     <td>
         <a href="https://github.com/Team-0ops/Oops-back" target="_blank" rel="noopener noreferrer">
           실패를 공유하는 새로운 SNS, OOPS!
