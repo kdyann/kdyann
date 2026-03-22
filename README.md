@@ -23,7 +23,7 @@
   <br>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=argo&logoColor=white"/>
   <br>
   <br>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
