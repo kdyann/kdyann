@@ -12,7 +12,7 @@
 <br/>
 
 ## 📂 Projects
-- **2026.06 ~ ing** | reminedo - 알림으로 실천을 돕는 리마인더 앱 — PM, Dev  
+- **2026.06** | reminedo - 알림으로 실천을 돕는 리마인더 앱 — PM, Dev  
 - **2025.11 ~ 2025.12** | DKaffeine - RAG 기반 카카오워크 AI 챗봇 시스템 — Infra  
 - **2025.09 ~ 2025.10** | [YouthFi - 청년 정책∙예적금 AI 포트폴리오 추천 및 모의투자 시스템](https://github.com/KE-WhyNot) — Infra, BE  
 - **2025.06 ~ 2026.02** | [OOPS! - 실패를 공유하는 새로운 SNS](https://github.com/Team-0ops/Oops-back) — BE  
