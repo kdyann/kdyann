@@ -9,6 +9,9 @@
 
 ## 🌱 Open Source Contributions
 - [Apache Gravitino : Make StatisticOperations error handling null-safe](https://github.com/apache/gravitino/pull/10200)
+- [Braillify : Add Go bindings with CGo and cross-platform support](https://github.com/dev-five-git/braillify/pull/167)
+- [Braillify : Add Ruby bindings with native extension and cross-platform support](https://github.com/dev-five-git/braillify/pull/171)
+- [Braillify : Add C/C++ bindings via C ABI with cross-platform support](https://github.com/dev-five-git/braillify/pull/179)
 <br/>
 
 ## 📂 Projects
