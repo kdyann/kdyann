@@ -1,6 +1,7 @@
 # Hi👋 I'm Dayoung
 
 ## 🏛️ Activities
+- **2026.08 ~ ing** | **CloudClub 10th**
 - **2026.02 ~ 2026.04** | **Kakaoenterprise Client개발팀** — Backend Intern
 - **2025.09 ~ 2025.12** | **Gachon Software Academy 7th**
 - **2025.03 ~ 2025.09** | **Wireless Intelligent Networking Lab (WINL, Gachon Univ / prof. Joon Yoo)** — Research Assistant
