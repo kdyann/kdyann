@@ -13,6 +13,7 @@
 - [Braillify : Add Go bindings with CGo and cross-platform support](https://github.com/dev-five-git/braillify/pull/167)
 - [Braillify : Add Ruby bindings with native extension and cross-platform support](https://github.com/dev-five-git/braillify/pull/171)
 - [Braillify : Add C/C++ bindings via C ABI with cross-platform support](https://github.com/dev-five-git/braillify/pull/179)
+- [Braillify : Add JVM bindings with JNI and cross-platform support](https://github.com/dev-five-git/braillify/pull/181)
 <br/>
 
 ## 📂 Projects
